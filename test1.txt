@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master branch line number 1
+=======
+dev branch line 1
+>>>>>>> dev
